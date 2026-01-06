@@ -1,0 +1,254 @@
+{
+  "HomePage": {
+    "title": "Skyline Pro Contractors",
+    "subtitle": "Building Excellence Since 2010",
+    "cta": "Get a Free Quote"
+  },
+  "Navigation": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "projects": "Projects",
+    "contact": "Contact",
+    "getQuote": "Get a Quote"
+  },
+  "Services": {
+    "roofing": "Roofing",
+    "siding": "Siding",
+    "windows": "Windows",
+    "insurance": "Insurance Claims",
+    "gutters": "Gutters",
+    "repairs": "Repairs"
+  },
+  "Footer": {
+    "tagline": "Building Excellence",
+    "description": "Professional construction contractors serving the Greater New York Area. Quality craftsmanship, reliable service.",
+    "servicesTitle": "Our Services",
+    "contactTitle": "Contact Us",
+    "address": "Yonkers, NY",
+    "phone": "(914) 555-0123",
+    "email": "info@skylinepro.com",
+    "copyright": "© 2026 Skyline Pro Contractors LLC. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "roofing": "Roofing",
+    "siding": "Siding",
+    "gutters": "Gutters",
+    "insurance": "Insurance Claims"
+  },
+  "Language": {
+    "english": "English",
+    "spanish": "Español",
+    "switchTo": "Switch language"
+  },
+  "HeroContractor": {
+    "badge": "Serving Westchester County & Surrounding Areas",
+    "title": "Protecting Homes. Building Trust.",
+    "subtitle": "Expert Roofing, Siding & Gutter Services. Specialists in Storm Damage.",
+    "ctaPrimary": "Get Free Inspection",
+    "ctaSecondary": "Emergency Services Available"
+  },
+  "TrustBar": {
+    "licensed": "Licensed & Insured",
+    "estimates": "Free Estimates",
+    "workmanship": "Quality Workmanship",
+    "local": "Local Business"
+  },
+  "ServicesGrid": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive solutions for your home",
+    "roofing": {
+      "title": "Roofing",
+      "items": [
+        "Roof Replacement",
+        "Roof Repair",
+        "Storm Damage",
+        "Inspections"
+      ]
+    },
+    "siding": {
+      "title": "Siding",
+      "items": [
+        "Vinyl Siding",
+        "Fiber Cement",
+        "Repairs",
+        "Color Matching"
+      ]
+    },
+    "gutters": {
+      "title": "Gutters",
+      "items": [
+        "Installation",
+        "Cleaning",
+        "Gutter Guards",
+        "Repairs"
+      ]
+    },
+    "repairs": {
+      "title": "General Repairs",
+      "items": [
+        "Wind Damage",
+        "Hail Damage",
+        "Water Intrusion",
+        "Emergency Repairs"
+      ]
+    }
+  },
+  "InsuranceSection": {
+    "title": "Storm Damage? We Handle Your Insurance Claim",
+    "description": "Dealing with insurance companies can be overwhelming. Our experienced team will guide you through the entire claims process, meet with adjusters, and ensure you receive fair compensation for your repairs.",
+    "feature1Title": "Free Storm Assessment",
+    "feature1Desc": "Complete inspection and damage documentation",
+    "feature2Title": "Claim Assistance",
+    "feature2Desc": "We handle all paperwork and adjuster meetings",
+    "feature3Title": "Guaranteed Work",
+    "feature3Desc": "All repairs backed by our warranty",
+    "cta": "Start Your Claim"
+  },
+  "FeaturedProjects": {
+    "sectionLabel": "Featured Work",
+    "title": "Recent Projects",
+    "subtitle": "Discover our latest construction and renovation masterpieces",
+    "viewAll": "View All Projects",
+    "projectPreview": "Project Preview"
+  },
+  "Projects": {
+    "modernResidential": "Modern Residential Renovation",
+    "commercialRoofing": "Commercial Roofing Project",
+    "luxurySiding": "Luxury Home Siding Installation"
+  },
+  "ProjectsPage": {
+    "title": "Our Portfolio",
+    "subtitle": "Recent Work in Westchester County",
+    "filterAll": "All Projects",
+    "filterRoofing": "Roofing",
+    "filterSiding": "Siding",
+    "filterGutters": "Gutters",
+    "filterResidential": "Residential",
+    "filterCommercial": "Commercial",
+    "viewProject": "View Project"
+  },
+  "Contact": {
+    "pageTitle": "Get in Touch",
+    "pageSubtitle": "Let's Build Together",
+    "description": "Ready to protect your home? Contact us today for a free inspection and estimate.",
+    "phone": "Phone",
+    "email": "Email",
+    "location": "Location",
+    "hours": "Hours",
+    "locationText": "Serving Westchester County & Surrounding Areas",
+    "hoursText": "Monday - Friday: 7:00 AM - 5:00 PM\nSaturday: 8:00 AM - 2:00 PM\nEmergency Services Available 24/7",
+    "emergencyTitle": "Emergency Service?",
+    "emergencyText": "For urgent storm damage or emergency repairs, call us now!",
+    "emergencyButton": "Call Emergency Line",
+    "formTitle": "Request a Free Estimate",
+    "formSubtitle": "Fill out the form below and we'll get back to you within 24 hours.",
+    "formName": "Full Name",
+    "formEmail": "Email Address",
+    "formPhone": "Phone Number",
+    "formService": "Service Needed",
+    "formMessage": "Message",
+    "formNamePlaceholder": "John Doe",
+    "formEmailPlaceholder": "john@example.com",
+    "formPhonePlaceholder": "(914) 555-0123",
+    "formMessagePlaceholder": "Tell us about your project...",
+    "formSelectService": "Select a service",
+    "formServiceRoofing": "Roofing",
+    "formServiceSiding": "Siding",
+    "formServiceGutters": "Gutters",
+    "formServiceInsurance": "Insurance Claim",
+    "formServiceOther": "Other",
+    "formSubmitting": "Sending...",
+    "formSubmit": "Send Message",
+    "successTitle": "Thank you for contacting us!",
+    "successMessage": "We'll get back to you shortly.",
+    "errorTitle": "Something went wrong",
+    "errorMessage": "Please call us at",
+    "errorName": "Name must be at least 2 characters",
+    "errorEmail": "Please enter a valid email",
+    "errorPhone": "Phone must be at least 10 digits",
+    "errorService": "Please select a service",
+    "errorMessage10": "Message must be at least 10 characters",
+    "required": "*"
+  },
+  "Services": {
+    "pageTitle": "Comprehensive Exterior Solutions",
+    "pageSubtitle": "Professional services for your home's protection and beauty",
+    "roofingTitle": "Professional Roofing Services",
+    "roofingDescription": "From minor repairs to complete replacements, our expert team delivers premium roofing solutions that protect your home for decades. We specialize in storm damage assessment and insurance claim support.",
+    "roofingFeature1": "Complete roof replacement and installation",
+    "roofingFeature2": "Storm damage repair and emergency services",
+    "roofingFeature3": "Premium materials and manufacturer warranties",
+    "roofingFeature4": "Free inspection and detailed estimates",
+    "roofingCta": "Request Roofing Quote",
+    "sidingTitle": "Siding Installation & Repair",
+    "sidingDescription": "Transform your home's appearance and improve energy efficiency with premium siding solutions. Our expert installation ensures lasting beauty and protection against the elements.",
+    "sidingFeature1": "Vinyl, fiber cement, and composite options",
+    "sidingFeature2": "Energy-efficient insulated siding",
+    "sidingFeature3": "Color and style consultation",
+    "sidingFeature4": "Warranty-backed installation",
+    "sidingCta": "Explore Siding Options",
+    "guttersTitle": "Seamless Gutter Systems",
+    "guttersDescription": "Protect your home's foundation with our custom-fit seamless gutters. We offer professional installation, gutter guards, and comprehensive maintenance to keep water flowing away from your home.",
+    "guttersFeature1": "Custom seamless gutter fabrication",
+    "guttersFeature2": "Gutter guard installation",
+    "guttersFeature3": "Downspout extensions and drainage solutions",
+    "guttersFeature4": "Regular maintenance and cleaning",
+    "guttersCta": "Get Gutter Quote",
+    "insuranceTitle": "Insurance Claims Assistance",
+    "insuranceDescription": "Storm damage can be overwhelming. We handle the entire insurance claims process for you, from documentation to adjuster meetings. Our expertise means you get the compensation you deserve without the stress.",
+    "insuranceFeature1": "Free storm damage assessment",
+    "insuranceFeature2": "Complete claims documentation",
+    "insuranceFeature3": "Adjuster meeting representation",
+    "insuranceFeature4": "Maximize your claim value",
+    "insuranceCta": "Start Your Claim"
+  },
+  "About": {
+    "pageTitle": "More Than Contractors, We're Your Neighbors",
+    "pageSubtitle": "Your local exterior construction experts",
+    "storyTitle": "Our Story",
+    "storyText": "At Skyline Pro Contractors, we believe in doing things the right way—the first time. Since our founding, we've built a reputation in Westchester County for honest service, superior craftsmanship, and unwavering commitment to customer satisfaction. We're not just contractors; we're your neighbors, dedicated to protecting and enhancing the homes in our community.",
+    "founderQuote": "Our mission is simple: treat every home as if it were our own.",
+    "founderName": "— Founded on Trust",
+    "valuesTitle": "Why Choose Us",
+    "stat1Title": "Local Experts",
+    "stat1Text": "Proudly serving Westchester County and surrounding areas",
+    "stat2Title": "Fully Insured",
+    "stat2Text": "Complete coverage for your peace of mind",
+    "stat3Title": "Quality Guaranteed",
+    "stat3Text": "Warranty-backed workmanship on every project",
+    "faqTitle": "Common Questions About Roofing & Insurance",
+    "faqQ1": "Do you work directly with my insurance company?",
+    "faqA1": "Yes! We handle the entire insurance claim process from start to finish. Our team meets with adjusters, provides documentation, and ensures you receive the full compensation you deserve.",
+    "faqQ2": "Do you offer free estimates?",
+    "faqA2": "Absolutely. We provide comprehensive free inspections and detailed estimates for all services. There's never any obligation, and we'll explain every aspect of the work needed.",
+    "faqQ3": "Are you licensed in Westchester County?",
+    "faqA3": "Yes, we are fully licensed, bonded, and insured to operate throughout Westchester County and surrounding areas. We maintain all required certifications and stay current with local building codes.",
+    "faqQ4": "How long does a roof replacement take?",
+    "faqA4": "Most residential roof replacements are completed in 1-2 days, depending on the size of your home and weather conditions. We work efficiently while maintaining the highest quality standards.",
+    "locationTitle": "Our Base of Operations",
+    "locationAddress": "Serving Westchester County, NY",
+    "locationHours": "Monday - Friday: 7 AM - 5 PM\nSaturday: 8 AM - 2 PM\nSunday: Emergency Only",
+    "ctaTitle": "Ready to Start Your Project?",
+    "ctaText": "Get a free consultation and estimate today. Let's discuss how we can protect and enhance your home.",
+    "ctaButton": "Get Free Estimate"
+  },
+  "ProjectDetail": {
+    "backToProjects": "Back to Projects",
+    "projectOverview": "Project Overview",
+    "projectGallery": "Project Gallery",
+    "projectImage": "Project Image",
+    "projectDetails": "Project Details",
+    "location": "Location",
+    "completed": "Completed",
+    "services": "Services",
+    "ctaTitle": "Interested in Similar Work?",
+    "ctaText": "Contact us today for a free consultation and estimate.",
+    "ctaButton": "Get a Free Estimate"
+  },
+  "ServicesPage": {
+    "bottomCtaTitle": "Ready to Get Started?",
+    "bottomCtaText": "Contact us today for a free consultation and estimate",
+    "bottomCtaButton": "Get Free Estimate"
+  }
+}

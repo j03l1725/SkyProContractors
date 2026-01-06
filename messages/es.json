@@ -1,0 +1,254 @@
+{
+    "HomePage": {
+        "title": "Contratistas Skyline Pro",
+        "subtitle": "Construyendo Excelencia Desde 2010",
+        "cta": "Cotización Gratis"
+    },
+    "Navigation": {
+        "home": "Inicio",
+        "about": "Nosotros",
+        "services": "Servicios",
+        "projects": "Proyectos",
+        "contact": "Contacto",
+        "getQuote": "Cotizar"
+    },
+    "Services": {
+        "roofing": "Techos",
+        "siding": "Revestimiento",
+        "windows": "Ventanas",
+        "insurance": "Reclamos de Seguro",
+        "gutters": "Canaletas",
+        "repairs": "Reparaciones"
+    },
+    "Footer": {
+        "tagline": "Construyendo Excelencia",
+        "description": "Contratistas profesionales de construcción sirviendo el área metropolitana de Nueva York. Artesanía de calidad, servicio confiable.",
+        "servicesTitle": "Nuestros Servicios",
+        "contactTitle": "Contáctenos",
+        "address": "Yonkers, NY",
+        "phone": "(914) 555-0123",
+        "email": "info@skylinepro.com",
+        "copyright": "© 2026 Skyline Pro Contractors LLC. Todos los derechos reservados.",
+        "privacy": "Política de Privacidad",
+        "terms": "Términos de Servicio",
+        "roofing": "Techos",
+        "siding": "Revestimiento",
+        "gutters": "Canaletas",
+        "insurance": "Reclamos de Seguro"
+    },
+    "Language": {
+        "english": "English",
+        "spanish": "Español",
+        "switchTo": "Cambiar idioma"
+    },
+    "HeroContractor": {
+        "badge": "Sirviendo al Condado de Westchester y Áreas Circundantes",
+        "title": "Protegiendo Hogares. Construyendo Confianza.",
+        "subtitle": "Expertos en Techos, Revestimiento y Canaletas. Especialistas en Daños por Tormentas.",
+        "ctaPrimary": "Inspección Gratuita",
+        "ctaSecondary": "Servicios de Emergencia Disponibles"
+    },
+    "TrustBar": {
+        "licensed": "Licenciado y Asegurado",
+        "estimates": "Estimados Gratis",
+        "workmanship": "Trabajo de Calidad",
+        "local": "Negocio Local"
+    },
+    "ServicesGrid": {
+        "title": "Nuestros Servicios",
+        "subtitle": "Soluciones completas para su hogar",
+        "roofing": {
+            "title": "Techos",
+            "items": [
+                "Reemplazo de Techos",
+                "Reparación de Techos",
+                "Daños por Tormenta",
+                "Inspecciones"
+            ]
+        },
+        "siding": {
+            "title": "Revestimiento",
+            "items": [
+                "Revestimiento de Vinilo",
+                "Fibrocemento",
+                "Reparaciones",
+                "Igualación de Color"
+            ]
+        },
+        "gutters": {
+            "title": "Canaletas",
+            "items": [
+                "Instalación",
+                "Limpieza",
+                "Protectores de Canaletas",
+                "Reparaciones"
+            ]
+        },
+        "repairs": {
+            "title": "Reparaciones Generales",
+            "items": [
+                "Daños por Viento",
+                "Daños por Granizo",
+                "Intrusión de Agua",
+                "Reparaciones de Emergencia"
+            ]
+        }
+    },
+    "InsuranceSection": {
+        "title": "¿Daños por Tormenta? Manejamos Su Reclamo de Seguro",
+        "description": "Tratar con compañías de seguros puede ser abrumador. Nuestro equipo experimentado le guiará a través de todo el proceso de reclamos, reunirse con ajustadores y asegurar que reciba una compensación justa por sus reparaciones.",
+        "feature1Title": "Evaluación Gratuita de Daños",
+        "feature1Desc": "Inspección completa y documentación de daños",
+        "feature2Title": "Asistencia con Reclamos",
+        "feature2Desc": "Manejamos todo el papeleo y reuniones con ajustadores",
+        "feature3Title": "Trabajo Garantizado",
+        "feature3Desc": "Todas las reparaciones respaldadas por nuestra garantía",
+        "cta": "Iniciar Su Reclamo"
+    },
+    "FeaturedProjects": {
+        "sectionLabel": "Trabajo Destacado",
+        "title": "Proyectos Recientes",
+        "subtitle": "Descubre nuestras últimas obras maestras de construcción y renovación",
+        "viewAll": "Ver Todos los Proyectos",
+        "projectPreview": "Vista Previa del Proyecto"
+    },
+    "Projects": {
+        "modernResidential": "Renovación Residencial Moderna",
+        "commercialRoofing": "Proyecto de Techado Comercial",
+        "luxurySiding": "Instalación de Revestimiento en Casa de Lujo"
+    },
+    "ProjectsPage": {
+        "title": "Nuestro Portafolio",
+        "subtitle": "Trabajo Reciente en el Condado de Westchester",
+        "filterAll": "Todos los Proyectos",
+        "filterRoofing": "Techos",
+        "filterSiding": "Revestimiento",
+        "filterGutters": "Canaletas",
+        "filterResidential": "Residencial",
+        "filterCommercial": "Comercial",
+        "viewProject": "Ver Proyecto"
+    },
+    "Contact": {
+        "pageTitle": "Contáctenos",
+        "pageSubtitle": "Construyamos Juntos",
+        "description": "¿Listo para proteger su hogar? Contáctenos hoy para una inspección y estimado gratuitos.",
+        "phone": "Teléfono",
+        "email": "Correo",
+        "location": "Ubicación",
+        "hours": "Horario",
+        "locationText": "Sirviendo al Condado de Westchester y Áreas Circundantes",
+        "hoursText": "Lunes - Viernes: 7:00 AM - 5:00 PM\nSábado: 8:00 AM - 2:00 PM\nServicios de Emergencia Disponibles 24/7",
+        "emergencyTitle": "¿Servicio de Emergencia?",
+        "emergencyText": "¡Para daños urgentes por tormenta o reparaciones de emergencia, llámenos ahora!",
+        "emergencyButton": "Llamar Línea de Emergencia",
+        "formTitle": "Solicitar un Estimado Gratuito",
+        "formSubtitle": "Complete el formulario a continuación y le responderemos dentro de 24 horas.",
+        "formName": "Nombre Completo",
+        "formEmail": "Correo Electrónico",
+        "formPhone": "Número de Teléfono",
+        "formService": "Servicio Necesitado",
+        "formMessage": "Mensaje",
+        "formNamePlaceholder": "Juan Pérez",
+        "formEmailPlaceholder": "juan@ejemplo.com",
+        "formPhonePlaceholder": "(914) 555-0123",
+        "formMessagePlaceholder": "Cuéntenos sobre su proyecto...",
+        "formSelectService": "Seleccione un servicio",
+        "formServiceRoofing": "Techos",
+        "formServiceSiding": "Revestimiento",
+        "formServiceGutters": "Canaletas",
+        "formServiceInsurance": "Reclamo de Seguro",
+        "formServiceOther": "Otro",
+        "formSubmitting": "Enviando...",
+        "formSubmit": "Enviar Mensaje",
+        "successTitle": "¡Gracias por contactarnos!",
+        "successMessage": "Le responderemos pronto.",
+        "errorTitle": "Algo salió mal",
+        "errorMessage": "Por favor llámenos al",
+        "errorName": "El nombre debe tener al menos 2 caracteres",
+        "errorEmail": "Por favor ingrese un correo válido",
+        "errorPhone": "El teléfono debe tener al menos 10 dígitos",
+        "errorService": "Por favor seleccione un servicio",
+        "errorMessage10": "El mensaje debe tener al menos 10 caracteres",
+        "required": "*"
+    },
+    "Services": {
+        "pageTitle": "Soluciones Exteriores Integrales",
+        "pageSubtitle": "Servicios profesionales para la protección y belleza de su hogar",
+        "roofingTitle": "Servicios Profesionales de Techos",
+        "roofingDescription": "Desde reparaciones menores hasta reemplazos completos, nuestro equipo experto entrega soluciones premium de techado que protegen su hogar por décadas. Nos especializamos en evaluación de daños por tormenta y apoyo con reclamos de seguro.",
+        "roofingFeature1": "Reemplazo e instalación completa de techos",
+        "roofingFeature2": "Reparación de daños por tormenta y servicios de emergencia",
+        "roofingFeature3": "Materiales premium y garantías del fabricante",
+        "roofingFeature4": "Inspección gratuita y estimados detallados",
+        "roofingCta": "Solicitar Cotización de Techado",
+        "sidingTitle": "Instalación y Reparación de Revestimiento",
+        "sidingDescription": "Transforme la apariencia de su hogar y mejore la eficiencia energética con soluciones premium de revestimiento. Nuestra instalación experta asegura belleza duradera y protección contra los elementos.",
+        "sidingFeature1": "Opciones de vinilo, cemento de fibra y compuesto",
+        "sidingFeature2": "Revestimiento aislado eficiente energéticamente",
+        "sidingFeature3": "Consultoría de color y estilo",
+        "sidingFeature4": "Instalación respaldada por garantía",
+        "sidingCta": "Explorar Opciones de Revestimiento",
+        "guttersTitle": "Sistemas de Canaletas Sin Costuras",
+        "guttersDescription": "Proteja los cimientos de su hogar con nuestras canaletas sin costuras hechas a medida. Ofrecemos instalación profesional, protectores de canaletas y mantenimiento integral para mantener el agua lejos de su hogar.",
+        "guttersFeature1": "Fabricación de canaletas sin costuras personalizadas",
+        "guttersFeature2": "Instalación de protectores de canaletas",
+        "guttersFeature3": "Extensiones de bajantes y soluciones de drenaje",
+        "guttersFeature4": "Mantenimiento regular y limpieza",
+        "guttersCta": "Obtener Cotización de Canaletas",
+        "insuranceTitle": "Asistencia con Reclamos de Seguro",
+        "insuranceDescription": "Los daños por tormenta pueden ser abrumadores. Manejamos todo el proceso de reclamos de seguro por usted, desde la documentación hasta las reuniones con ajustadores. Nuestra experiencia significa que obtenga la compensación que merece sin el estrés.",
+        "insuranceFeature1": "Evaluación gratuita de daños por tormenta",
+        "insuranceFeature2": "Documentación completa de reclamos",
+        "insuranceFeature3": "Representación en reuniones con ajustadores",
+        "insuranceFeature4": "Maximice el valor de su reclamo",
+        "insuranceCta": "Iniciar Su Reclamo"
+    },
+    "About": {
+        "pageTitle": "Más que Contratistas, Somos Tus Vecinos",
+        "pageSubtitle": "Sus expertos locales en construcción exterior",
+        "storyTitle": "Nuestra Historia",
+        "storyText": "En Skyline Pro Contractors, creemos en hacer las cosas de la manera correcta—la primera vez. Desde nuestra fundación, hemos construido una reputación en el Condado de Westchester por servicio honesto, artesanía superior y compromiso inquebrantable con la satisfacción del cliente. No somos solo contratistas; somos sus vecinos, dedicados a proteger y mejorar los hogares en nuestra comunidad.",
+        "founderQuote": "Nuestra misión es simple: tratar cada hogar como si fuera nuestro.",
+        "founderName": "— Fundados en la Confianza",
+        "valuesTitle": "Por Qué Elegirnos",
+        "stat1Title": "Expertos Locales",
+        "stat1Text": "Sirviendo con orgullo al Condado de Westchester y áreas circundantes",
+        "stat2Title": "Completamente Asegurados",
+        "stat2Text": "Cobertura completa para su tranquilidad",
+        "stat3Title": "Calidad Garantizada",
+        "stat3Text": "Trabajo respaldado por garantía en cada proyecto",
+        "faqTitle": "Preguntas Comunes sobre Techos y Seguros",
+        "faqQ1": "¿Trabajan directamente con mi compañía de seguros?",
+        "faqA1": "¡Sí! Manejamos todo el proceso de reclamo de seguro de principio a fin. Nuestro equipo se reúne con ajustadores, proporciona documentación y asegura que reciba la compensación completa que merece.",
+        "faqQ2": "¿Ofrecen estimados gratuitos?",
+        "faqA2": "Absolutamente. Proporcionamos inspecciones gratuitas integrales y estimados detallados para todos los servicios. Nunca hay ninguna obligación, y explicaremos cada aspecto del trabajo necesario.",
+        "faqQ3": "¿Están licenciados en el Condado de Westchester?",
+        "faqA3": "Sí, estamos completamente licenciados, con fianza y asegurados para operar en todo el Condado de Westchester y áreas circundantes. Mantenemos todas las certificaciones requeridas y nos mantenemos actualizados con los códigos de construcción locales.",
+        "faqQ4": "¿Cuánto tiempo toma reemplazar un techo?",
+        "faqA4": "La mayoría de los reemplazos de techos residenciales se completan en 1-2 días, dependiendo del tamaño de su hogar y las condiciones climáticas. Trabajamos eficientemente mientras mantenemos los más altos estándares de calidad.",
+        "locationTitle": "Nuestra Base de Operaciones",
+        "locationAddress": "Sirviendo al Condado de Westchester, NY",
+        "locationHours": "Lunes - Viernes: 7 AM - 5 PM\nSábado: 8 AM - 2 PM\nDomingo: Solo Emergencias",
+        "ctaTitle": "¿Listo para Comenzar Su Proyecto?",
+        "ctaText": "Obtenga una consulta y estimado gratuitos hoy. Hablemos sobre cómo podemos proteger y mejorar su hogar.",
+        "ctaButton": "Obtener Estimado Gratuito"
+    },
+    "ProjectDetail": {
+        "backToProjects": "Volver a Proyectos",
+        "projectOverview": "Resumen del Proyecto",
+        "projectGallery": "Galería del Proyecto",
+        "projectImage": "Imagen del Proyecto",
+        "projectDetails": "Detalles del Proyecto",
+        "location": "Ubicación",
+        "completed": "Completado",
+        "services": "Servicios",
+        "ctaTitle": "¿Interesado en Trabajo Similar?",
+        "ctaText": "Contáctenos hoy para una consulta y estimado gratuitos.",
+        "ctaButton": "Obtener Estimado Gratuito"
+    },
+    "ServicesPage": {
+        "bottomCtaTitle": "¿Listo para Comenzar?",
+        "bottomCtaText": "Contáctenos hoy para una consulta y estimado gratuitos",
+        "bottomCtaButton": "Obtener Estimado Gratuito"
+    }
+}
