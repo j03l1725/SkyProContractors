@@ -3,7 +3,8 @@
  * Defines the structure for construction projects
  */
 
-import { SanityImageSource } from '@sanity/image-url/lib/types/types';
+// Definición local para evitar errores de ruta en el build
+type SanityImageSource = any;
 
 export interface SanityProject {
     _id: string;
