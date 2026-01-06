@@ -23,7 +23,7 @@ export interface SanityProject {
     }>;
     completionDate?: string;
     location?: string;
-    description?: string;
+    description?: any; // Portable Text blocks from Sanity
     featured?: boolean;
 }
 

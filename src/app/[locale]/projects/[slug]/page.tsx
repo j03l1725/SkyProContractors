@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import Image from 'next/image';
 import Link from 'next/link';
+import { PortableText } from '@portabletext/react';
 import { getProjectBySlug } from '@/lib/sanity/queries';
 import { createImageUrlBuilder } from '@sanity/image-url';
 import { sanityConfig } from '@/sanity/env';
@@ -142,7 +143,7 @@ export default async function ProjectPage({ params }: ProjectPageProps) {
                                     {t('projectOverview')}
                                 </h2>
                                 <div className="prose prose-slate prose-lg max-w-none prose-headings:font-bold prose-headings:text-slate-900 prose-p:text-slate-600 prose-p:leading-relaxed prose-a:text-bronze">
-                                    <p className="whitespace-pre-wrap">{project.description}</p>
+                                    <PortableText value={project.description} />
                                 </div>
                             </div>
                         )}
