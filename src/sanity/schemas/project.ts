@@ -19,7 +19,8 @@ export interface SanityProject {
     gallery?: SanityImageSource[];
     categories?: Array<{
         _id: string;
-        title: string;
+        title?: string;
+        name?: string;
     }>;
     completionDate?: string;
     location?: string;

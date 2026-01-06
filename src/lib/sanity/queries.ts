@@ -77,7 +77,18 @@ const PROJECT_BY_SLUG_QUERY = `*[_type == "project" && slug.current == $slug][0]
   slug,
   mainImage,
   gallery,
-  categories,
+  "categories": categories[]{
+    "_id": @,
+    "title": select(
+      @ == "roofing" => "Roofing",
+      @ == "siding" => "Siding",
+      @ == "windows" => "Windows",
+      @ == "insurance" => "Insurance Claims",
+      @ == "residential" => "Residential",
+      @ == "commercial" => "Commercial",
+      upper(@)
+    )
+  },
   completionDate,
   location,
   description

@@ -119,14 +119,23 @@ export default async function ProjectPage({ params }: ProjectPageProps) {
                         <div className="flex items-center gap-2">
                             <Tag className="h-5 w-5 text-bronze" />
                             <div className="flex flex-wrap gap-2">
-                                {project.categories.map((category, idx) => (
-                                    <span
-                                        key={idx}
-                                        className="px-3 py-1 bg-bronze/10 text-bronze text-sm font-medium rounded-full"
-                                    >
-                                        {category.title}
-                                    </span>
-                                ))}
+                                {project.categories.map((category, idx) => {
+                                    // Skip null categories (broken references)
+                                    if (!category) return null;
+
+                                    // Fallback: try title, then name, then empty
+                                    const label = category.title || category.name;
+                                    if (!label) return null; // Don't render empty bubbles
+
+                                    return (
+                                        <span
+                                            key={category._id || idx}
+                                            className="px-3 py-1 bg-bronze/10 text-bronze text-sm font-medium rounded-full"
+                                        >
+                                            {label}
+                                        </span>
+                                    );
+                                })}
                             </div>
                         </div>
                     )}
@@ -222,14 +231,23 @@ export default async function ProjectPage({ params }: ProjectPageProps) {
                                     <div>
                                         <p className="text-sm text-slate-500 mb-2">{t('services')}</p>
                                         <div className="flex flex-wrap gap-2">
-                                            {project.categories.map((category, idx) => (
-                                                <span
-                                                    key={idx}
-                                                    className="px-3 py-1 bg-bronze/10 text-bronze text-sm font-medium rounded-full"
-                                                >
-                                                    {category.title}
-                                                </span>
-                                            ))}
+                                            {project.categories.map((category, idx) => {
+                                                // Skip null categories (broken references)
+                                                if (!category) return null;
+
+                                                // Fallback: try title, then name, then empty
+                                                const label = category.title || category.name;
+                                                if (!label) return null; // Don't render empty bubbles
+
+                                                return (
+                                                    <span
+                                                        key={category._id || idx}
+                                                        className="px-3 py-1 bg-bronze/10 text-bronze text-sm font-medium rounded-full"
+                                                    >
+                                                        {label}
+                                                    </span>
+                                                );
+                                            })}
                                         </div>
                                     </div>
                                 )}
