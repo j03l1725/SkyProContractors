@@ -124,7 +124,7 @@ export default async function ProjectPage({ params }: ProjectPageProps) {
                                         key={idx}
                                         className="px-3 py-1 bg-bronze/10 text-bronze text-sm font-medium rounded-full"
                                     >
-                                        {category}
+                                        {category.title}
                                     </span>
                                 ))}
                             </div>
@@ -155,7 +155,7 @@ export default async function ProjectPage({ params }: ProjectPageProps) {
                                     {t('projectGallery')}
                                 </h2>
                                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 md:gap-6">
-                                    {project.gallery.map((image: any, index: number) => (
+                                    {project.gallery?.map((image: any, index: number) => (
                                         <div
                                             key={index}
                                             className="group relative aspect-[4/3] overflow-hidden rounded-lg bg-slate-100 shadow-md hover:shadow-xl transition-all duration-300"
@@ -227,7 +227,7 @@ export default async function ProjectPage({ params }: ProjectPageProps) {
                                                     key={idx}
                                                     className="px-3 py-1 bg-bronze/10 text-bronze text-sm font-medium rounded-full"
                                                 >
-                                                    {category}
+                                                    {category.title}
                                                 </span>
                                             ))}
                                         </div>

@@ -13,7 +13,8 @@ const getContactFormSchema = (t: any) => z.object({
     email: z.string().email(t("errorEmail")),
     telefono: z.string().min(10, t("errorPhone")),
     servicio: z.enum(["Roofing", "Siding", "Gutters", "Insurance Claim", "Other"], {
-        errorMap: () => ({ message: t("errorService") })
+        required_error: t("errorService"),
+        invalid_type_error: t("errorService")
     }),
     mensaje: z.string().min(10, t("errorMessage10")).optional().or(z.literal("")),
 });
