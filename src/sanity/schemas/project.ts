@@ -15,6 +15,7 @@ export interface SanityProject {
         current: string;
     };
     mainImage: SanityImageSource;
+    gallery?: SanityImageSource[];
     categories?: Array<{
         _id: string;
         title: string;
